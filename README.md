@@ -9,3 +9,8 @@ sales forecast
 
 The given dataset contains  sales data by various Pesticide manufacturing 
 companies. This data is available on state and district level for years 2014-18.
+
+Below are the objectives 
+- To Conduct state wise trend analysis of the given sales 
+- To identify other reasons if they are influencing Pesticide sales
+- To provide state wise forecast of Pesticide sales for ABC Manufacturing
